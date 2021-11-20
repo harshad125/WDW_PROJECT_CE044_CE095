@@ -6,6 +6,12 @@ body {
   color: #202020;
   margin: 0;
   padding: 0;
+  background:url("img/tom-barrett-hgGplX3PFBg-unsplash.jpg");
+  position: relative;
+  top: 0;
+  left: 0;
+  background-size: cover;
+  background-position: top center;
 }
 
 .container {
